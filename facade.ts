@@ -12,7 +12,6 @@ class ElectricalSystem {
 }
 
 // simplified wrapper for end consumer
-
 class House {
     private plumbing = new PlumbingSystem();
     private electrical = new ElectricalSystem();
