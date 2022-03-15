@@ -16,3 +16,5 @@ function range(start: number, end: number, step=1){
 for(const n of range(0, 200, 10)){
     console.log(n);
 }
+
+// pull based system
