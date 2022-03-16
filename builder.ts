@@ -15,7 +15,7 @@ console.log(lunch);
     we create the object step-by-step
     using methods */ 
 
-class Burger {
+class Burger { 
     constructor(
         public bun: boolean,
         public ketchup: boolean,

@@ -19,5 +19,8 @@ const results = [
 
 results.forEach(x => console.log(x));
 
-/*  TypeScript considers any file with   
+/*  JS moves up the prototype chain moving
+    towards the root until int finds
+
+    TypeScript considers any file with   
     import or export statements as a module. */
